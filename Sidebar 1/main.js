@@ -26,4 +26,5 @@ window.addEventListener("resize", () => {
     sidebar.style.height = "auto";
     toggleMenu(sidebar.classList.contains("menu-active"));
   }
+
 });
